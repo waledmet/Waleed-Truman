@@ -1,4 +1,4 @@
-# Waleed-Truman
+# waledmet
 
 <h1 align="center">Hi 👋, I'm Waleed Mohammed Ibrahim Truman</h1>
 <h3 align="center">Sr.Software Engineer from Egypt</h3>
